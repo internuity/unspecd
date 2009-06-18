@@ -1,21 +1,3 @@
-= Unspec'd
-
-A Rails plugin providing rake tasks to find files with no specs
-
-== Usage
-
-  rake spec:unspecd
-  rake spec:unspecd:views
-  rake spec:unspecd:controllers
-  rake spec:unspecd:models
-  rake spec:unspecd:libs
-
-== Install
-
-  script/plugin install git://github.com/internuity/unspecd.git
-
-== LICENSE:
-
 (The MIT License)
 
 Copyright (c) 2009
